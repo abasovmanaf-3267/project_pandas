@@ -1,4 +1,4 @@
-# project_pandas
+# Project_pandas
 
 Pandas Core Functionalities Applied
 In this project, I leveraged the full power of Pandas to transform raw data into actionable insights:
